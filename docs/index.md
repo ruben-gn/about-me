@@ -8,7 +8,7 @@
 
 ### Energie Data Services Nederland (EDSN), vanaf 04/2024
 
-* **DevOps Engineer (GOPACS), Tech Lead**<br>_april 2024 - heden_
+* **DevOps Engineer (GOPACS), Tech Lead**<br>_april 2024 - heden_<br>Als tech lead verantwoordelijk voor een aantal microservices in het _post trading_ domein. Samen met andere tech leads en architect verantwoordelijk voor overkoepelende applicatie-architectuur. Vooral bezig met zorgen dat mijn team haar werk goed kan doen (code-reviews, refinements voorbereiden, etc.). Samen met de product owner meedenken over functionele invulling business vraagstukken.
 
 ---
 
