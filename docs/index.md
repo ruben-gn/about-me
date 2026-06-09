@@ -15,7 +15,7 @@
 ### Team Rockstars IT, 01/2018 - 03/2024
 
 * **Software Developer**<br>_februari 2018 - maart 2024_
-  * **GOPACS**<br>_oktober 2021 - maart 2024_, Tech Lead
+  * **GOPACS**, Tech Lead<br>_oktober 2021 - maart 2024_
   * **Avinty**<br>_februari 2021 - september 2021_
   * **Dynamic Web Marketing**<br>_september 2019 - december 2020_
   * **Dearnova**<br>_november 2018 - juli 2019_  
