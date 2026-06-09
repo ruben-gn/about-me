@@ -1,7 +1,7 @@
 # Ruben Groot Nibbelink
-Veenendaal
+🏠️ Veenendaal
 
-09-11-1989
+🍼 1989
 
 ### Energie Data Services Nederland (EDSN), vanaf 04/2024
 
