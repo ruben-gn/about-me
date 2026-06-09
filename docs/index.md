@@ -1,7 +1,7 @@
 # Ruben Groot Nibbelink
 ### Energie Data Services Nederland (EDSN), vanaf 04/2024
 
-* **DevOps Engineer (GOPACS)**<br>_april 2024 - heden_
+* **DevOps Engineer (GOPACS), Tech Lead**<br>_april 2024 - heden_
 
 ---
 
