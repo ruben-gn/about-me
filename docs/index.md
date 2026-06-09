@@ -1,7 +1,7 @@
 # Ruben Groot Nibbelink
-🏠️ Veenendaal<br>
 🌐 https://ruben.grootnibbel.ink<br>
 ✉️ ruben@grootnibbel.ink<br>
+🏠️ Veenendaal<br>
 🍼 1989
 
 ---
